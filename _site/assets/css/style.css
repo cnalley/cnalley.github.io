@@ -724,11 +724,6 @@ dt {
       #header nav li.title {
         float: right;
         margin-right: 10px;
-        font-size: 14px; }
-      #header nav li.share {
-        float: right;
-        margin-right: 6px;
-        margin-left: 6px;
         font-size: 11px; }
 
 section {
@@ -785,3 +780,8 @@ section {
 
   nav {
     display: none; } }
+.share {
+  float: right;
+  margin-right: 6px;
+  margin-left: 6px;
+  font-size: 11px; }

@@ -25,7 +25,7 @@ And the site is up at localhost:4000. Wasn’t that easy compared to setting up 
 1.  Deleted with the about.md file.
 2.  Copied the post.html and home.html layouts from the minima theme.
 3.  Added a defaults.html layout from the midnight theme and made some small changes. The defaults.html in _layouts (as well as any other files with the same name) will overwrite the defaults.html in the gem file.
-4. Added some custom share icons based on the article [here](http://tomhohenstein.com/Jekyll-Custom-Share-Buttons/) and slightly modified the jekyll-theme-midnight.scss.  
+4. Added some custom share icons based on the article [here](http://tomhohenstein.com/Jekyll-Custom-Share-Buttons/) and a tiny bit of custom style to /assets/css/style.scss.  
 
 The [Jekyll documentation](https://jekyllrb.com/docs/home/) on content creation as well as the themes own index.md provides almost all the information needed for blogging basics. 
 ```bash
