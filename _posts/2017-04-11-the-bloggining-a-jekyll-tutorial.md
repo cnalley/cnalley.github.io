@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Bloggining! A Jekyll tutorial."
+title:  "The Bloggining! A Jekyll Tutorial"
 date:   2017-04-11 10:01:35 -0700
 ---
 I’ve been hearing a lot of goods things about Jekyll for a while now. The idea of stepping away from the more complicated CMS like Wordpress that I’ve used in the past seems appealing for a simple site. The project I had in mind (this site) was a blog to catalog or document various projects in a single location which sounded perfect for what GitHub Pages and Jekyll had to offer. One thing that made this setup slightly more complicated was the desire to have a site that I could modify and serve locally to then push to GitHub Pages. The easier route since GitHub Pages is integrated with Jekyll would be to setup a github page, choose a theme, and add some posts.  
